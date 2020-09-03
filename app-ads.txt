@@ -1,4 +1,3 @@
-app-ads.txt entries - generic
 pubmatic.com, 157559, RESELLER, 5d62403b186f2ace
 yahoo.com, 1510636, RESELLER
 aol.com, 50987, RESELLER
